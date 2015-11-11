@@ -10,4 +10,8 @@ Replace below in existing code : 1. Website Logo 2. Slider Images 3. About Conte
 
 ## Contributors
 
-Nikhil Maheshwari Website : http://www.nikhilmaheshwari.in
+Nikhil Maheshwari  [ http://www.nikhilmaheshwari.in ]
+
+## Demo
+
+http://www.nikhilmaheshwari.in/ResponsiveLanding
